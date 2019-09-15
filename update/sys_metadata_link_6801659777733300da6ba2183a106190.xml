@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>44e0ed5777733300da6ba2183a10619f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_ca_assc_datacenter">
+    <sn_cmp_ca_assc_datacenter action="INSERT_OR_UPDATE">
+        <alias>Azure Datacenter - westus2</alias>
+        <cloud_account display_value="AzureCA">ca02a64f77333300da6ba2183a10610d</cloud_account>
+        <ldc_id display_value="West US 2">c1b0619777733300da6ba2183a1061f8</ldc_id>
+        <mid_server/>
+        <resource_block display_value="Azure Datacenter">ddf5cd6bd722220097eb6ccf6e610346</resource_block>
+        <status>1</status>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 10:06:15</sys_created_on>
+        <sys_id>44e0ed5777733300da6ba2183a10619f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 10:06:15</sys_updated_on>
+    </sn_cmp_ca_assc_datacenter>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 10:06:51</sys_created_on>
+        <sys_id>6801659777733300da6ba2183a106190</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure Datacenter - westus2</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_6801659777733300da6ba2183a106190</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 10:06:51</sys_updated_on>
+        <tablename>sn_cmp_ca_assc_datacenter</tablename>
+    </sys_metadata_link>
+</record_update>

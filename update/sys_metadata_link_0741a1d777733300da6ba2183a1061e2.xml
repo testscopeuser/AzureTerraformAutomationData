@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>28145f66c0a8000b0042faff8de4b5c1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_ci">
+    <cmdb_rel_ci action="INSERT_OR_UPDATE">
+        <child display_value="EXCH-SD-07">2811a2efc0a8000b0069bb464f215ff5</child>
+        <connection_strength>always</connection_strength>
+        <parent display_value="IronMail-SD-01">280ffff1c0a8000b0083f5395b44bc97</parent>
+        <percent_outage/>
+        <port/>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2007-11-10 05:42:12</sys_created_on>
+        <sys_id>28145f66c0a8000b0042faff8de4b5c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2007-11-10 05:42:12</sys_updated_on>
+        <type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+    </cmdb_rel_ci>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 10:08:07</sys_created_on>
+        <sys_id>0741a1d777733300da6ba2183a1061e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2007-11-10 11:12:12</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_0741a1d777733300da6ba2183a1061e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 10:08:07</sys_updated_on>
+        <tablename>cmdb_rel_ci</tablename>
+    </sys_metadata_link>
+</record_update>

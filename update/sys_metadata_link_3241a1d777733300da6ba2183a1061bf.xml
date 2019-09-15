@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>272bc85f77133300da6ba2183a10610b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_ci">
+    <cmdb_rel_ci action="INSERT_OR_UPDATE">
+        <child display_value="nic-42174e77-29a9-a056-76cb-20d93bb0b984-eth0_endpoint">972bc85f77133300da6ba2183a106109</child>
+        <connection_strength>always</connection_strength>
+        <parent display_value="test-creating-vm">1f2bc85f77133300da6ba2183a106108</parent>
+        <percent_outage/>
+        <port/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-21 07:20:27</sys_created_on>
+        <sys_id>272bc85f77133300da6ba2183a10610b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-21 07:20:27</sys_updated_on>
+        <type display_value="Use End Point To::Use End Point From">e7490a74532221007c949096a11c08b2</type>
+    </cmdb_rel_ci>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 10:08:06</sys_created_on>
+        <sys_id>3241a1d777733300da6ba2183a1061bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2019-08-21 12:50:27</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_3241a1d777733300da6ba2183a1061bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 10:08:06</sys_updated_on>
+        <tablename>cmdb_rel_ci</tablename>
+    </sys_metadata_link>
+</record_update>

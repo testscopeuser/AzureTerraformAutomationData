@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>333f111377733300da6ba2183a106128</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_ci">
+    <cmdb_rel_ci action="INSERT_OR_UPDATE">
+        <child display_value="AzureLinuxTerraformBox">c082220377733300da6ba2183a106196</child>
+        <connection_strength>always</connection_strength>
+        <parent display_value="allResources">233fdddf77333300da6ba2183a1061e8</parent>
+        <percent_outage/>
+        <port/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 09:59:08</sys_created_on>
+        <sys_id>333f111377733300da6ba2183a106128</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 09:59:08</sys_updated_on>
+        <type display_value="Hosted on::Hosts">5f985e0ec0a8010e00a9714f2a172815</type>
+    </cmdb_rel_ci>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 10:08:08</sys_created_on>
+        <sys_id>a741e1d777733300da6ba2183a106118</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2019-09-15 15:29:08</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_a741e1d777733300da6ba2183a106118</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 10:08:08</sys_updated_on>
+        <tablename>cmdb_rel_ci</tablename>
+    </sys_metadata_link>
+</record_update>

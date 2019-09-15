@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3a32b22e0a0a0bb400dd39cfcd62f2f5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_ci">
+    <cmdb_rel_ci action="INSERT_OR_UPDATE">
+        <child display_value="ny8500-nbxs08">55b35562c0a8010e01cff22378e0aea9</child>
+        <connection_strength>always</connection_strength>
+        <parent display_value="PeopleSoft Portals">2fce42d80a0a0bb4004af34d7e3984c8</parent>
+        <percent_outage/>
+        <port/>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2008-10-26 17:28:00</sys_created_on>
+        <sys_id>3a32b22e0a0a0bb400dd39cfcd62f2f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2008-10-26 17:28:00</sys_updated_on>
+        <type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+    </cmdb_rel_ci>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 10:08:09</sys_created_on>
+        <sys_id>e341e1d777733300da6ba2183a106133</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2008-10-26 22:58:00</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_e341e1d777733300da6ba2183a106133</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 10:08:09</sys_updated_on>
+        <tablename>cmdb_rel_ci</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>12b2ea0377733300da6ba2183a106148</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_ci">
+    <cmdb_rel_ci action="INSERT_OR_UPDATE">
+        <child display_value="var.tf">9eb2ea0377733300da6ba2183a106140</child>
+        <connection_strength>always</connection_strength>
+        <parent display_value="test">52b2ea0377733300da6ba2183a106140</parent>
+        <percent_outage/>
+        <port/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-14 20:15:29</sys_created_on>
+        <sys_id>12b2ea0377733300da6ba2183a106148</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-14 20:15:29</sys_updated_on>
+        <type display_value="Contains::Contained by">55c95bf6c0a8010e0118ec7056ebc54d</type>
+    </cmdb_rel_ci>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 10:08:05</sys_created_on>
+        <sys_id>e641299777733300da6ba2183a10613f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2019-09-15 01:45:29</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_e641299777733300da6ba2183a10613f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 10:08:05</sys_updated_on>
+        <tablename>cmdb_rel_ci</tablename>
+    </sys_metadata_link>
+</record_update>

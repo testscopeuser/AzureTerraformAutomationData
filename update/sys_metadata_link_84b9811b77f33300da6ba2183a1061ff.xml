@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>32c0a20f77333300da6ba2183a1061ee</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="azure_service_principal">
+    <azure_service_principal action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>all</applies_to>
+        <auth_method>Client Secret</auth_method>
+        <authentication_key/>
+        <authentication_protocol/>
+        <cert_alias/>
+        <certificate/>
+        <classification>azure</classification>
+        <client_id>150f0756-df47-4f68-a971-1e9303ae2014</client_id>
+        <ea_credential/>
+        <mid_list/>
+        <name>AzureCreds</name>
+        <order>100</order>
+        <password/>
+        <privacy_key/>
+        <privacy_protocol/>
+        <realm/>
+        <secret_key>+zMIGp3FZKO/3HGh+pYVlwWHQySxcUGPmZM/72yGUtx7MaSa+EyjGA==</secret_key>
+        <ssh_passphrase/>
+        <ssh_private_key/>
+        <sys_class_name>azure_service_principal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-14 20:07:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32c0a20f77333300da6ba2183a1061ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-14 20:11:30</sys_updated_on>
+        <tag/>
+        <tenant_id>8bcff170-9979-491e-8683-d8ced0850bad</tenant_id>
+        <type>azure</type>
+        <user_name/>
+    </azure_service_principal>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 08:24:58</sys_created_on>
+        <sys_id>84b9811b77f33300da6ba2183a1061ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AzureCreds</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_84b9811b77f33300da6ba2183a1061ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 08:24:58</sys_updated_on>
+        <tablename>discovery_credentials</tablename>
+    </sys_metadata_link>
+</record_update>

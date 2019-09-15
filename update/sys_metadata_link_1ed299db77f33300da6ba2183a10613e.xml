@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>91f1664f77333300da6ba2183a106159</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_azure_datacenter">
+    <cmdb_ci_azure_datacenter action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <datacenter_url/>
+        <delivery_date/>
+        <department/>
+        <discovery_source>ServiceNow</discovery_source>
+        <discovery_status display_value="DIS0010016">6c12e64f77333300da6ba2183a10615f</discovery_status>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <first_discovered>2019-09-14 20:12:08</first_discovered>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered>2019-09-14 20:14:58</last_discovered>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <morid/>
+        <name>West US</name>
+        <object_id>westus</object_id>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <region>westus</region>
+        <schedule/>
+        <serial_number/>
+        <server/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_azure_datacenter</sys_class_name>
+        <sys_class_path>/!!/!)/!!/!(/!*</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-14 20:12:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>91f1664f77333300da6ba2183a106159</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-14 20:14:58</sys_updated_on>
+        <unverified>false</unverified>
+        <vcenter_ref/>
+        <vcenter_uuid/>
+        <vendor/>
+        <warranty_expiration/>
+    </cmdb_ci_azure_datacenter>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 09:04:59</sys_created_on>
+        <sys_id>1ed299db77f33300da6ba2183a10613e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>West US</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_1ed299db77f33300da6ba2183a10613e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 09:04:59</sys_updated_on>
+        <tablename>cmdb_ci_logical_datacenter</tablename>
+    </sys_metadata_link>
+</record_update>

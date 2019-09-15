@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>10e1a24f77333300da6ba2183a10610a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_cloud_service_account">
+    <cmdb_ci_cloud_service_account action="INSERT_OR_UPDATE">
+        <account_id>af9ea988-a518-492e-a2ad-a87098bb7364</account_id>
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <datacenter_discovery_status>2019-09-15 01:42:09: Completed....Reload this form to see an updated datacenter list.</datacenter_discovery_status>
+        <datacenter_type>cmdb_ci_azure_datacenter</datacenter_type>
+        <datacenter_url/>
+        <delivery_date/>
+        <department/>
+        <discovery_credentials display_value="AzureCreds">32c0a20f77333300da6ba2183a1061ee</discovery_credentials>
+        <discovery_source>ServiceNow</discovery_source>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <first_discovered>2019-09-14 20:11:48</first_discovered>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <is_master_account>false</is_master_account>
+        <justification/>
+        <last_discovered>2019-09-14 20:13:13</last_discovered>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>Central QE Testing</name>
+        <object_id>af9ea988-a518-492e-a2ad-a87098bb7364</object_id>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <parent_account/>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <server/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_cloud_service_account</sys_class_name>
+        <sys_class_path>/!!/!)/#7</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-14 20:11:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>10e1a24f77333300da6ba2183a10610a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-14 20:13:13</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor/>
+        <warranty_expiration/>
+    </cmdb_ci_cloud_service_account>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-15 09:01:18</sys_created_on>
+        <sys_id>980251db77f33300da6ba2183a106181</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Central QE Testing</sys_name>
+        <sys_package display_value="azureTerraformAutomationData" source="sn_azureterraforma">bf994dd777f33300da6ba2183a106136</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="azureTerraformAutomationData">bf994dd777f33300da6ba2183a106136</sys_scope>
+        <sys_update_name>sys_metadata_link_980251db77f33300da6ba2183a106181</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-15 09:01:18</sys_updated_on>
+        <tablename>cmdb_ci_cloud_service_account</tablename>
+    </sys_metadata_link>
+</record_update>
